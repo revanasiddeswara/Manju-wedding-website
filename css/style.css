@@ -1823,6 +1823,7 @@ form label {
 @media (max-width: 768px) {
   .fh5co-bgv {
     height: auto; /* Set height to auto for mobile view */
+    width: 100%;
   }
 }
 .video-container {
