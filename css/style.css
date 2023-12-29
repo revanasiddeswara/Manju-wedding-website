@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6, figure {
 @media (max-width: 768px) {
   .fh5co-bg {
     background-position: center top; /* Adjust background position for mobile */
-    width: 100%;
+    width: 90%;
     float: none; /* Remove float for mobile view */
   }
 }
