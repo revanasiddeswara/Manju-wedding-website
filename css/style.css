@@ -1913,3 +1913,9 @@ input[type="submit"] {
     margin-top: 10px;
     color: #4CAF50;
 }
+.bismillah {
+  margin: 25px;
+  display: inline-block;
+  max-height: 200px;
+  vertical-align: middle;
+}
