@@ -1837,13 +1837,17 @@ form label {
   max-width: 100%;
   /* height: 100%; */
 }
-
-/* Media Query for Mobile Devices */
 @media (max-width: 768px) {
   .video-container {
-      height: 250px; /* Adjust the height for mobile view */
+    height: 350px; /* Adjust the default height for mobile view */
+  }
+
+  #videoFrame {
+    width: 100%; /* Set the video width to fill the container */
+    height: 550px  !important; /* Increase the video height for mobile view */
   }
 }
+
 .formcontainer {
     max-width: 600px; /* Adjust the maximum width of the container */
     margin: 0 auto;
