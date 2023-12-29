@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6, figure {
 @media (max-width: 768px) {
   .fh5co-bg {
     background-position: center top; /* Adjust background position for mobile */
-    width: 90%;
+    width: 50%;
     float: none; /* Remove float for mobile view */
   }
 }
