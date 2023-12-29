@@ -836,6 +836,11 @@ h1, h2, h3, h4, h5, h6, figure {
 form label {
   font-weight: normal !important;
 }
+@media screen and (max-width: 768px) {
+  #fh5co-header.fh5co-cover {
+    background-size: cover; /* or 'contain' for mobile view */
+  }
+}
 
 #fh5co-header .display-tc,
 #fh5co-counter .display-tc,
