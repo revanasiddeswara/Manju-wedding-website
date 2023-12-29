@@ -1816,7 +1816,7 @@ form label {
 
 .fh5co-bgv {
   background-position: center center;
-  width: 70%;
+  width: 100%;
   margin: 0 auto; /* This centers the element horizontally */
   position: relative;
 }
