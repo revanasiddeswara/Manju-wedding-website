@@ -1822,7 +1822,7 @@ form label {
 }
 @media (max-width: 768px) {
   .fh5co-bgv {
-    height: 450px  !important; /* Set height to auto for mobile view */
+    height: 80%  !important; /* Set height to auto for mobile view */
     width: 100%;
   }
 }
