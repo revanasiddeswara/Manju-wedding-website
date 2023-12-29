@@ -838,7 +838,8 @@ form label {
 }
 @media screen and (max-width: 768px) {
   #fh5co-header.fh5co-cover {
-    background-size: cover; /* or 'contain' for mobile view */
+    background-size: contain; /* or 'contain' for mobile view */
+    
   }
 }
 
